@@ -1,0 +1,3 @@
+[submodule "motore"]
+	path = motore
+	url = https://github.com/frankberly86/motore.git
